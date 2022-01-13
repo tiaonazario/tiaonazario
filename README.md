@@ -18,12 +18,14 @@
   <a href="https://www.linkedin.com/in/sebastiaonazario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
+<div align="Center">
  <p align="center"> 
 
- <h2>visits :detective: <br></h2>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/tiaonazario/count.svg" />
+  ## visits :detective: <br>
+  <p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/tiaonazario/count.svg" />
+  </p>
+
  </p>
 
-</p>
-
+</div>
