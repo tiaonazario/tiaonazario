@@ -17,8 +17,8 @@
   <a href="https://www.instagram.com/tiaonazario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sebastiaonazario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  <p align="right"> 
+<!--   <p align="right"> 
     Visits :detective: <br>
     <img alingn="center" src="https://profile-counter.glitch.me/tiaonazario/count.svg" />
-  </p>
+  </p> -->
 </div>
