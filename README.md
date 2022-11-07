@@ -1,8 +1,8 @@
 ## Hi people, Tião here
- <div align="Center">
+<!--  <div align="Center">
   <a href="https://github.com/tiaonazario">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiaonazario&layout=compact&langs_count=16&theme=dark"/>
-</div>
+</div> -->
  
  ##
  
