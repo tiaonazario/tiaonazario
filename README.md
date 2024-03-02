@@ -1,14 +1,14 @@
 ### Hi people, Tião here
 
-## Sobre mim:
+## About me:
 
-- 👨🏻‍ Menu nome é Sebastião Nazário de Azevedo
-- 🎓 Formações
-  - 🔌 Graduando em Engenharia Elétrica
-  - 🧑🏻‍🔬 Graduado em Ciência e Tecnologia
- - ❔ Aprendendo tecnologias com foco no Front-end
+- 👨🏻‍ My name is Sebastião Nazário de Azevedo
+- 🎓 Education
+  - 🔌 Electrical engineer
+  - 🧑🏻‍🔬 Science and Technology
+ - ❔ Learning technologies with a focus on Web Development
 
-## Linguagens
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=4287f5&labelColor=333333)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&labelColor=333333)
